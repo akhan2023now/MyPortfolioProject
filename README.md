@@ -3,7 +3,7 @@ Welcome to my portfolio! In this collection of files, you'll see different thing
 
 - Jupyter Notebook, Python Code 
 - Complex SQL queries
-- Data Visualization - Power BI
+- Data Visualization - Power BI (Adventure Works)
 - Excel -data analysis, formula creation, and pivot table manipulation  
 
 
